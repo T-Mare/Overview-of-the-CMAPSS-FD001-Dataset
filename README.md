@@ -6,4 +6,4 @@ Download Data from: https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-da
 
 Store locally and replace base_raw_data_path with yours
 
-This Notebook does not save the processed datasets to a path. Make sure to save the processed datasets to  a specified path for further use.
+This Notebook does not save the processed datasets to a path. Make sure to save the processed datasets to  a specified path for personal use.
