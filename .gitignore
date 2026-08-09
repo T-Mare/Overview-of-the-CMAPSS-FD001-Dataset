@@ -1,0 +1,9 @@
+# Ignore everything except Python, notebooks, and README files
+*
+!*/
+!**/*.py
+!**/*.ipynb
+!**/README*
+!**/ReadMe*
+!**/readme*
+!.gitignore
